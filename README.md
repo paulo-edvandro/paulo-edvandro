@@ -14,7 +14,7 @@ Sou um desenvolvedor em formação com foco em **Full-Stack**. Minha jornada com
 
 ### Projetos em Destaque
 
-* **API de Turismo:** Uma API RESTful completa construída com Node.js, Express e MongoDB. Este projeto demonstra minha proficiência em back-end, autenticação e gerenciamento de dados. EM ANDAMENTO...70%
+* **API de Turismo:** Uma API RESTful completa construída com Node.js, Express e MongoDB. Este projeto demonstra minha proficiência em back-end, autenticação e gerenciamento de dados. 
 * **Projeto Bankist (JavaScript):** Um projeto com JavaScript puro que simula um aplicativo de banco. Ele demonstra minha proficiência em lógica e manipulação de dados, além de habilidades de interação com o usuário (DOM).
 * **Website Estático:** Meu primeiro projeto, focado nos fundamentos de HTML e CSS. Ele demonstra minha base sólida em desenvolvimento front-end e a capacidade de criar interfaces responsivas.
 
