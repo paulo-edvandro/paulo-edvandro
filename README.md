@@ -1,25 +1,62 @@
-### Olá! 👋 Eu sou o Paulo Edvandro.
+# 👋 Olá! Eu sou o Paulo Edvandro
 
-Sou um desenvolvedor em formação com foco em **Full-Stack**. Minha jornada começou com o desenvolvimento front-end, mas atualmente estou imerso na criação de APIs e na lógica de back-end.
+Sou estudante de **Desenvolvimento de Software**, atualmente focado em desenvolvimento **Back-end com Java e Spring Boot**.
 
----
+Tenho direcionado meus estudos para construção de APIs REST, orientação a objetos, persistência de dados, bancos relacionais, segurança e arquitetura de aplicações.
 
-### Minhas Habilidades
+Atualmente estou transformando esse conhecimento em projetos próprios com Java, buscando não apenas construir aplicações que funcionem, mas entender as decisões, conceitos e tecnologias utilizadas em cada etapa.
 
-* **Front-end:** HTML, CSS, JavaScript
-* **Back-end:** Node.js, Express, MongoDB
-* **Ferramentas:** Git, GitHub, VS Code
+## 🎯 Current Focus
 
----
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 REST APIs
+* 🗄️ SQL & PostgreSQL
+* 📦 JPA / Hibernate
+* 🔐 Spring Security
+* 🐳 Docker
+* 🧪 Testes automatizados
+* 🏗️ Arquitetura e boas práticas de Back-end
 
-### Projetos em Destaque
+## 💻 Technologies
 
-* **API de Turismo:** Uma API RESTful completa construída com Node.js, Express e MongoDB. Este projeto demonstra minha proficiência em back-end, autenticação e gerenciamento de dados. 
-* **Projeto Bankist (JavaScript):** Um projeto com JavaScript puro que simula um aplicativo de banco. Ele demonstra minha proficiência em lógica e manipulação de dados, além de habilidades de interação com o usuário (DOM).
-* **Website Estático:** Meu primeiro projeto, focado nos fundamentos de HTML e CSS. Ele demonstra minha base sólida em desenvolvimento front-end e a capacidade de criar interfaces responsivas.
+### Back-end
 
----
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `SQL` `PostgreSQL`
 
-### Vamos Conectar!
+### Tools
 
-Estou sempre aberto para colaborar e aprender. Sinta-se à vontade para me conectar no LinkedIn!
+`Git` `GitHub` `Maven` `Docker`
+
+### Other technologies
+
+`JavaScript` `Node.js` `Express` `HTML` `CSS`
+
+## 🚧 What I'm building
+
+Atualmente estou desenvolvendo projetos próprios utilizando **Java e Spring Boot** para consolidar meus conhecimentos de desenvolvimento back-end.
+
+Meu objetivo é construir aplicações que eu consiga compreender e explicar de ponta a ponta — desde modelagem e regras de negócio até banco de dados, APIs, segurança e testes.
+
+> **Currently building my Java backend portfolio.**
+
+## 📚 Currently Learning
+
+Estou aprofundando meus conhecimentos em:
+
+* Java e Programação Orientada a Objetos
+* Spring Boot e ecossistema Spring
+* APIs REST
+* JPA / Hibernate
+* Spring Security
+* Bancos relacionais
+* Testes
+* Estruturas de dados e boas práticas de desenvolvimento
+
+## 🤝 Opportunities
+
+Estou em busca de oportunidades de **estágio ou posições iniciais em Desenvolvimento de Software**, especialmente em Back-end.
+
+Meu foco atual é Java, mas tenho interesse em aprender e trabalhar com diferentes tecnologias conforme as necessidades do projeto.
+
+> **Focused on Java. Open to learning anything the job requires.**
